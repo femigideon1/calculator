@@ -12,3 +12,4 @@ If you are not providing second parameter it will take "debug" by default
 
 (b)mvn exec:java -Dexec.mainClass=com.App -Dexec.args="add(5,5)"
 hello people
+i am still working on it
