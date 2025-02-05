@@ -11,3 +11,4 @@ If you are not providing second parameter it will take "debug" by default
 (a)java -cp target\calculator-1.0-SNAPSHOT-jar-with-dependencies.jar com.App "add(5,5)"
 
 (b)mvn exec:java -Dexec.mainClass=com.App -Dexec.args="add(5,5)"
+hello people
